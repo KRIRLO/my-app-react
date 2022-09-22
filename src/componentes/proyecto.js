@@ -1,7 +1,7 @@
 function Proyecto(props) {
   return (
     <div className="tabla">
-      <p>{props.mensaje}</p>
+      <p>{props.lista}</p>
     </div>
   );
 }
